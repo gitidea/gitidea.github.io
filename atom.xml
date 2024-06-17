@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lu&#39;s Blog</title>
+  
+  <subtitle>link start~</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-06-17T01:34:03.969Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Lu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>clear</title>
+    <link href="http://example.com/2024/06/15/clear/"/>
+    <id>http://example.com/2024/06/15/clear/</id>
+    <published>2024-06-15T09:07:08.000Z</published>
+    <updated>2024-06-17T01:34:03.969Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/7rzd/jsgl.jpg" alt=""></p><p><img src="/img/7rzd/jszb.jpg" alt=""></p><p><img src="/img/7rzd/level01.jpg" alt=""></p><p><img src="/img/7rzd/level02.jpg" alt=""></p><p><img src="/img/7rzd/zb.png" alt=""></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/7rzd/jsgl.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/7rzd/jszb.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/7rzd/level01.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p</summary>
+      
+    
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/categories/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/tags/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>碧空遥响</title>
+    <link href="http://example.com/2024/06/15/sky-ring/"/>
+    <id>http://example.com/2024/06/15/sky-ring/</id>
+    <published>2024-06-15T07:56:46.000Z</published>
+    <updated>2024-06-17T01:34:03.969Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/7rzd/%E5%B0%98%E4%B8%96%E7%9A%84%E9%81%97%E7%8F%A0/%E7%A2%A7%E7%A9%BA%E9%81%A5%E5%93%8D/00.png" alt=""></p><p><img src="/img/7rzd/%E5%B0%98%E4%B8%96%E7%9A%84%E9%81%97%E7%8F%A0/%E7%A2%A7%E7%A9%BA%E9%81%A5%E5%93%8D/%E8%99%9A%E5%A6%84%E4%B9%8B%E6%9C%88.jpg" alt=""></p><p>前言：①双结局主线（339[虚妄之月]和340[琉璃之鸟]）；②339[虚妄之月]结局需要120情报值</p><p>进入本主线需要先通过[正轨的箱庭]主线篇章，并在主线手册中选择“尘世的遗珠”——[碧空遥响]篇章并开启主线。</p><p>D7</p><p>接受了雷切尔的请求，在今天内解放海底研究所吧。</p><p><font color=DeepSkyBlue>目标变化：讨伐研究所，调查爆炸发生的原因。</font></p><p>解放研究所（3次，全新战斗）</p><p><font color=DeepSkyBlue>目标变化：巡查研究所。找到逃离的办法。</font></p><p>巡查研究所，主线研究所废墟（一）[研究所废墟（二）] [研究所废墟（三）]（3次）</p><p><font color=DeepSkyBlue>目标变化：继续讨伐城市区域，等待调查结果。</font></p><p>解放高校学园（6次）</p><p><strong>点击中央城区，选择优先解放中央城区，避免出现意外。</strong></p><p>解放了海底研究所，同时在废墟中遇见了一个神秘少女。尽管她的举止有些奇怪，但还是领着我逃出废墟，只是我的鞋子也顺手送给了她。</p><p>D6</p><p>羽弥口中的“爸爸”居然只是存在于电脑中的程序！虽然很惊讶，但更重要的是查清研究所的秘密。在今天内去晏华推荐的区域看看吧。</p><p><font color=DeepSkyBlue>目标变化：调查让·塔克的过去。</font></p><p>解放中央城区（6次）</p><p>巡查高校学园，主线[复活的可能]（1次）</p><p>巡查中央城区，主线[黄金伞的记录]（1次）</p><p>巡查中央庭，主线[第二个羽弥？]（1次）</p><p>解放东方古街（3次）</p><p>D5</p><p>突然向羽弥袭来的神秘少女外加希罗的登场……按照希罗的说法，让·塔克把自己的秘密藏在了羽弥身上，那谁才是真正的羽弥？疑团重重，还是应该赶快搞清研究所的过往。</p><p><font color=DeepSkyBlue>目标变化：调查海底研究所的真相（巡查研究所、海湾侧城、港湾区和旧城区）</font></p><p>解放东方古街（3次）</p><p>巡查研究所，主线[羽弥]和[无名少女]二选一（1次）</p><p>解放海湾侧城（3次）</p><p>余5次，用于科技和情报建设</p><p>少女接受了我为她取的名字“艾珂”，随后就和羽弥共同在变成废墟的研究所住了下来。</p><p>D4</p><p>去研究所看望艾珂和羽弥的生活情况，但想处理好她们之间的关系可没那么简单。</p><p>解放海湾侧城（3次）</p><p>巡查海湾侧城，主线[情报漩涡]（1次）</p><p>解放旧城区（6次）</p><p>余2次</p><p>研究所的夜晚寂静无人，羽弥和艾珂都分别休息了。</p><p>D3</p><p>希罗再次出现并试图带走艾珂，还告诉我们让·塔克收养孩子只是为了复活他的孩子。</p><p>即使如此，艾珂和羽弥依旧没有跟随希罗。战斗一触即发之时，我们却收到晏华发来的消息，希罗的秘密实验室被袭击了。这一切都是怎么回事？</p><p>解放港湾区（6次）</p><p>巡查港湾区，主线[幽灵记录]（1次）</p><p>巡查旧城区，主线[过往回响]（1次）</p><p>剩余4次</p><p>调查终于告一段落，原来整件事背后都是希罗的安排，羽弥也是希罗赠送给让·塔克的，艾珂才是研究所真正从小培养起来的试验品。得知这一事实的羽弥非但没有很受打击，反而开始安慰艾珂……</p><p>D2</p><p>一夜过去，羽弥告诉我，艾珂不见了，在前去寻找艾珂之前，是否要带羽弥一同前往营救？<font color=Red><em><strong>（分歧点）</strong></em></font></p><p>一起去救艾珂（跳转340[琉璃之鸟]）</p><p>我一个人去帮她就可以了（跳转339[虚妄之月]）</p><p>根据此处选择的不同，后续剧情也以不同的角度讲述，故此后的剧情不再叙述。</p><p><img src="/img/7rzd/%E5%B0%98%E4%B8%96%E7%9A%84%E9%81%97%E7%8F%A0/%E7%A2%A7%E7%A9%BA%E9%81%A5%E5%93%8D/line.png" alt=""></p><p><font color=Red><strong>339[虚妄之月]</strong></font></p><p>D2剧情结束后目标变化：和羽弥一起，尽快把艾珂救回来！</p><p>情报值达到30之后巡查中央城区，主线[空巢]（1次）</p><p>情报值达到60之后巡查港湾区，主线[残骸]（1次）</p><p>余10次</p><p>D1</p><p>情报值达到90之后巡查东方古街，主线[回声]（1次）</p><p>情报值达到120之后巡查旧城区，主线[反叛]（1次）</p><p>余10次</p><p>D0剧情战，羽弥单挑让·塔克，坚持90秒结束战斗</p><p><img src="/img/7rzd/%E5%B0%98%E4%B8%96%E7%9A%84%E9%81%97%E7%8F%A0/%E7%A2%A7%E7%A9%BA%E9%81%A5%E5%93%8D/line.png" alt=""></p><p><font color=Red><strong>340[琉璃之鸟]</strong></font></p><p>D2后续剧情中有一处对四方之王的剧情战，战线会拉很长，建议手动操作。</p><p>目标变化：前往各个区域，阻止让·塔克破坏城市</p><p>巡查中央城区，主线[阻止让·塔克1]（1次）</p><p>巡查港湾区，主线[阻止让·塔克2]（1次）</p><p>余10次</p><p>D1</p><p>巡查海湾侧城，主线[阻止让·塔克3]（1次）</p><p>巡查旧城区，主线[阻止让·塔克4]（1次）</p><p>巡查研究所，主线[阻止让·塔克5]（1次）</p><p>余9次</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/7rzd/%E5%B0%98%E4%B8%96%E7%9A%84%E9%81%97%E7%8F%A0/%E7%A2%A7%E7%A9%BA%E9%81%A5%E5%93%8D/00.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/</summary>
+      
+    
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/categories/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/tags/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>天穹的圣歌</title>
+    <link href="http://example.com/2024/06/14/prayer/"/>
+    <id>http://example.com/2024/06/14/prayer/</id>
+    <published>2024-06-14T18:03:12.000Z</published>
+    <updated>2024-06-17T01:34:03.969Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/121.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E8%82%B2%E7%A7%8D%E8%80%85%E4%B9%8B%E7%AB%A0.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%92%95%E8%A3%82%E8%A1%80%E6%9C%88%E7%9A%84%E7%8C%8E%E7%8A%AC.jpg" alt=""></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/121.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84</summary>
+      
+    
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/categories/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/tags/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>纯白的救济</title>
+    <link href="http://example.com/2024/06/14/white-relief/"/>
+    <id>http://example.com/2024/06/14/white-relief/</id>
+    <published>2024-06-14T11:57:20.000Z</published>
+    <updated>2024-06-17T01:34:03.969Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/110.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/112.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/01.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/02.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/03.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/04.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/05.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/06.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/07.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/08.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/09.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/10.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/11.jpg" alt=""></p><p><img src="/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%BC/12.jpg" alt=""></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/7rzd/%E5%A4%A9%E7%A9%B9%E7%9A%84%E5%9C%A3%E6%AD%8C/%E6%8A%A4%E4%BD%91%E4%B8%8E%E6%AF%81%E7%81%AD%E7%9A%84%E7%BE%BD%E7%BF%B</summary>
+      
+    
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/categories/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/tags/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>神的棋盘</title>
+    <link href="http://example.com/2024/06/10/God-s-chess/"/>
+    <id>http://example.com/2024/06/10/God-s-chess/</id>
+    <published>2024-06-10T17:59:16.000Z</published>
+    <updated>2024-06-17T01:34:03.969Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/93.jpg" alt=""></p><p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/0.jpg" alt=""></p><p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/01.jpg" alt=""></p><p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/02.jpg" alt=""></p><p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/03.jpg" alt=""></p><p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/04.jpg" alt=""></p><p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/05.jpg" alt=""></p><p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/06.jpg" alt=""></p><p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/07.jpg" alt=""></p><p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/08.jpg" alt=""></p><p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/09.jpg" alt=""></p><p><img src="/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/11.jpg" alt=""></p><p>B为5行动支线给40好感神器使（注意B不可以是雷音，蕾娜，沧澜），瞬可以换成维恩。</p><p>要求30神器使，30建设力，30巡查值。</p><p>其中B给2个+8礼物，瞬给1个+8礼物。</p><p>情报处理优先值：减好感=拆建筑=减疲劳。假如遇到当日情报值不足，可以选择提前建造情报+10建筑，但不可以改变当日支线主线巡查次数，雷克特等人可能需要使用封藏已久的抗疲劳药剂</p><p><img src="/img/7rzd/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/12.jpg" alt=""></p><p>巴裘拉需要两个疲劳礼物，巫殷需要四个疲劳礼物，注意！巫殷疲劳结余只有5（即一次行动）最后分数1280</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/7rzd/%E7%AE%B1%E5%BA%AD%E7%9A%84%E5%BA%8F%E5%88%97/%E7%A5%9E%E7%9A%84%E6%A3%8B%E7%9B%98/93.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/</summary>
+      
+    
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/categories/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/tags/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>永远的7日之都</title>
+    <link href="http://example.com/2024/06/10/My-Days/"/>
+    <id>http://example.com/2024/06/10/My-Days/</id>
+    <published>2024-06-10T15:46:42.000Z</published>
+    <updated>2024-06-17T01:34:03.969Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/7rzd/7rzd.jpg" alt=""></p><p><img src="/img/7rzd/gl.jpg" alt=""></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/7rzd/7rzd.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/7rzd/gl.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/categories/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+    
+    <category term="永远的7日之都" scheme="http://example.com/tags/%E6%B0%B8%E8%BF%9C%E7%9A%847%E6%97%A5%E4%B9%8B%E9%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2024/05/26/hello-world/"/>
+    <id>http://example.com/2024/05/26/hello-world/</id>
+    <published>2024-05-26T10:37:21.000Z</published>
+    <updated>2024-06-17T01:34:03.969Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="node.js" scheme="http://example.com/tags/node-js/"/>
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
